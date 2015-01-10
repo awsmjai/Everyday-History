@@ -1,0 +1,461 @@
+    1  ls-l
+    2  ls -l
+    3  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    4  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    5  changeit
+    6  sudo apt-get install gdebi-core
+    7  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    8  locate mozilla
+    9  find.-name\*mp3
+   10  ps
+   11  ps aux
+   12  ls-lw
+   13  w
+   14  id
+   15  df
+   16  du
+   17  free
+   18  touch js.txt
+   19  touch j.doc
+   20  awk
+   21  ls -la/usr/bin
+   22  ls -la/usr/bin|less
+   23  ls -la/usr/bin
+   24  gzip j.doc
+   25  ls -la | less
+   26  vi j
+   27  vi jai
+   28  #!/bin/sh
+   29  pwd
+   30  ls
+   31  #!/bin/sh
+   32  VAR_1="jai"
+   33  echo $VAR_1
+   34  unset VAR_1
+   35  nano test.sh
+   36  chmod +x test.sh
+   37  ./test.sh
+   38  nano test.sh
+   39  ./TEST.SH
+   40  ./test.sh
+   41  nano.test
+   42  nano test.sh
+   43  ./test.sh
+   44  nano test.sh
+   45  ./test.sh
+   46  nano test.sh
+   47  ./test.sh
+   48  nano test.sh
+   49  ./test.sh
+   50  nano test.sh
+   51  ./test.sh
+   52  nano test.sh
+   53  ./test.sh
+   54  nano test.sh
+   55  ./test.sh
+   56  nano test.sh
+   57  nano pri.sh
+   58  chmod +x pri.sh
+   59  ./pri.sh
+   60  nano test.sh
+   61  for TOKEN in $*; do
+   62  nano test.sh
+   63  ./test.sh
+   64  jai krishan
+   65  ./test.sh
+   66  nano test.sh
+   67  ./test.sh
+   68  echo $?
+   69  nano test.sh
+   70  ./test.sh
+   71  nano test.sh
+   72  ./test.sh
+   73  nano test.sh
+   74  ./test.sh
+   75  nano test.sh
+   76  ./test.sh
+   77  nano test.sh
+   78  ./test.sh
+   79  nano test.sh
+   80  ./test.sh
+   81  nano test.sh
+   82  ./test.sh
+   83  nano test.sh
+   84  ./test.sh
+   85  nano test.sh
+   86  ./test.sh
+   87  nano test.sh
+   88  ./test.sh
+   89  nano test.sh
+   90  ./test.sh
+   91  nano test.sh
+   92  ./test.sh
+   93  nano test.sh
+   94  ./test.sh
+   95  nano test.sh
+   96  ./test.sh
+   97  nano test.sh
+   98  ./test.sh
+   99  nano test.sh
+  100  ./test.sh
+  101  nano test.sh
+  102  ./test.sh
+  103  nano test.sh
+  104  ./test.sh
+  105  nano test.sh
+  106  ./test.sh
+  107  nano test.sh
+  108  ./test.sh
+  109  nano test.sh
+  110  ./test.sh
+  111  nano test.sh
+  112  ./test.sh
+  113  nano test.sh
+  114  ./test.sh
+  115  nano test.sh
+  116  ./test.sh
+  117  nano test.sh
+  118  ./test.sh
+  119  nano test.sh
+  120  ./test.sh
+  121  nano test.sh
+  122  ./test.sh
+  123  nano test.sh
+  124  ./test.sh
+  125  nano test.sh
+  126  ./test.sh
+  127  nano test.sh
+  128  ./test.sh
+  129  nano test.sh
+  130  ./test.sh
+  131  nano test.sh
+  132  ./test.sh
+  133  nano test.sh
+  134  ./test.sh
+  135  nano test.sh
+  136  ./test.sh
+  137  nano test.sh
+  138  ./test.sh
+  139  nano test.sh
+  140  ./test.sh
+  141  nano test.sh
+  142  ./test.sh
+  143  nano test.sh
+  144  ./test.sh
+  145  nano test.sh
+  146  ./test.sh
+  147  nano test.sh
+  148  ./test.sh
+  149  nano test.sh
+  150  ./test.sh
+  151  nano test.sh
+  152  nano practice1.sh
+  153  chmod +x practice1.sh
+  154  ./practice1.sh
+  155  nano practice1.sh
+  156  ./practice1.sh
+  157  nano practice1.sh
+  158  ./practice1.sh
+  159  nano practice1.sh
+  160  ./practice1.sh
+  161  Hello
+  162  ./practice1.sh
+  163  nano practice1.sh
+  164  ./practice1.sh
+  165  nano practice1.sh
+  166  ./practice1.sh
+  167  nano practice1.sh
+  168  ./practice1.sh
+  169  nano practice1.sh
+  170  ./practice1.sh
+  171  nano practice1.sh
+  172  ./practice1.sh
+  173  practice1.sh
+  174  .practice1.sh
+  175  ls -l
+  176  ls -l --color
+  177  ls -l --g
+  178  man color
+  179  man ls
+  180  man g
+  181  man -g
+  182  man --color
+  183  cat -n j.doc
+  184  cat -n file:///home/bsuser1/Downloads/Linux%20Tutorial.odt.doc
+  185  cat -n ShellIntro.pdf
+  186  --help
+  187  grep --help
+  188  ls --help
+  189  man -k list
+  190  info ls
+  191  cd usr/bin
+  192  /bin
+  193  cd ~
+  194  cd downloads
+  195  cd Downloads
+  196  cd~
+  197  cd ~
+  198  clear
+  199  ls -l
+  200  ls -ld
+  201  clear
+  202  ls -ld
+  203  cd ~
+  204  ls -ld
+  205  ls d*
+  206  ls /usr/bin/d*
+  207  file
+  208  cat ShellIntro.pdf
+  209  mv js.txt /Downloads
+  210  whereis ls
+  211  which ls
+  212  find . -name \*mp3
+  213  find . -name \*doc
+  214  uname -a
+  215  more j.doc
+  216  more js.txt
+  217  clear
+  218  ls -la | more
+  219  ls -la | lpr
+  220  find . -name \*doc
+  221  vi test
+  222  vi j
+  223  vi sid
+  224  vi practice1.txt
+  225  sudo apt-get install git
+  226  ls -al ~/.ssh
+  227  # Lists the files in your .ssh directory, if they exist
+  228  ls -al ~/.ssh
+  229  # Lists the files in your .ssh directory, if they exist
+  230  ls -al ~/.ssh
+  231  ssh-keygen -t rsa -C "jai.bhardwaj99@gmail.com"
+  232  eval "$(ssh-agent -s)"
+  233  ssh-add ~/.ssh/id_rsa
+  234  ls
+  235  ssh -T git@github.com
+  236  ls
+  237  cd ~/.ssh/
+  238  ls
+  239  ls -al ~/.ssh
+  240  cd ~/
+  241  cd .ssh/
+  242  ssh-keygen -t rsa -C "jai.bhardwaj@berylsystems.com"
+  243  ls
+  244  vi id_rsa.pub 
+  245  ced ~
+  246  cd ~/Desktop/
+  247  ls
+  248  mkdir test
+  249  vi hello
+  250  cd test/
+  251  git init
+  252  sudo apt-get update
+  253  sudo apt-get install git
+  254  git
+  255  git init
+  256  git commit -m "first commit"
+  257  git config --global user.email "you@example.com"
+  258  git config --global user.email "jai.bhardwaj@berylsystems.com"
+  259  git config --global user.name "Your Name"
+  260  git config --global user.name "Jai Bhardwaj"
+  261  git commit -m "first commit"
+  262  ls
+  263  git remote add origin https://github.com/awsmjai/test.git
+  264  git push -u origin master
+  265  rm -r *
+  266  rm -R *
+  267  ls
+  268  vi test
+  269  git init
+  270  git commit -m "first commit"
+  271  git add .
+  272  git commit -m "first commit"
+  273  git remote add origin https://github.com/awsmjai/test.git
+  274  git push -u origin master
+  275  vi test
+  276  git init
+  277  git add .
+  278  git commit -m "second commit"
+  279  git remote add origin https://github.com/awsmjai/test.git
+  280  git push -u origin master
+  281  vi test
+  282  git add .
+  283  git commit -m "third commit"
+  284  git remote add origin https://github.com/awsmjai/test.git
+  285  git push -u origin master
+  286  git config
+  287  git config --list
+  288  git clone
+  289  cd Desktop
+  290  mkdir clone
+  291  cd ~
+  292  git clone [--] test [clone]
+  293  git clone test [clone]
+  294  git status
+  295  cd test
+  296  cd desktop
+  297  cd Desktop
+  298  git status
+  299  cd test
+  300  git status
+  301  cd ~
+  302  cd test
+  303  cd Desktop
+  304  cd test
+  305  cd ~
+  306  cd clone
+  307  cd Desktop
+  308  cd clone
+  309  git clone https://github.com/awsmjai/test
+  310  cd Desktop
+  311  cd ..
+  312  mkdir pri
+  313  cd pri
+  314  git clone https://github.com/awsmjai/test
+  315  cd ~
+  316  git log
+  317  cd Desktop
+  318  cd pri
+  319  git log
+  320  cd ..
+  321  cd test
+  322  git log
+  323  git diff
+  324  git diff --staged
+  325  git mv test.txt jai
+  326  git mv test.txt jai.txt
+  327  git mv jai.txt test.txt
+  328  git mv test jai
+  329  git --stat
+  330  git remote
+  331  git remote -v
+  332  git remote add pb https://github.com/awsmjai/test/blob/master/test
+  333  git fetch pb
+  334  git remote add pb https://github.com/awsmjai/test
+  335  git fetch pb
+  336  git remote add j https://github.com/awsmjai/test
+  337  git fetch j
+  338  cd ~
+  339  mkdir example1
+  340  mv test.sh example1
+  341  mv pri.sh example1
+  342  cd Desktop
+  343  cd test
+  344  cd ~
+  345  cd example1
+  346  git init
+  347  git add *.
+  348  git add .
+  349  git commit -m "first shell example"
+  350  git remote add origin https://github.com/awsmjai/Examples.git
+  351  git push -u origin master
+  352  ssh-keygen -t rsa -C "saddam20.hussain@gmail.com"
+  353  ~/.ssh/id_rsa.pub
+  354  ssh-add ~/.ssh/id_rsa
+  355  ~/.ssh/id_rsa.pub
+  356  cat ~/.ssh/id_rsa.pub
+  357  cd ~
+  358  mkdir saddam
+  359  git clone https://github.com/awsmsid/git_practice
+  360  cd saddam
+  361  git clone https://github.com/awsmsid/git_practice
+  362  nano example1.sh
+  363  vi example1.sh
+  364  git init
+  365  git add example1.sh
+  366  git commit -m "version2"
+  367  git remote add origin https://github.com/awsmsid/git_practice
+  368  git push -u origin master
+  369  git pull -u origin master
+  370  mkdir cj
+  371  cd cj
+  372  git pull -u origin master
+  373  man clone
+  374  ls
+  375  git clone https://github.com/awsmsid/git_practice.git
+  376  ls
+  377  cd git_practice/
+  378  ls
+  379  vi example1.sh
+  380  git pullhttps://github.com/awsmsid/git_practice.git
+  381  git pill
+  382  git pull
+  383  vi example1.sh
+  384  nano example1.sh
+  385  git init
+  386  git add example1.sh
+  387  git remote add origin https://github.com/awsmsid/git_practice
+  388  git commit -m "version2"
+  389  git pull -u origin master
+  390  git push -u origin master
+  391  git remote add origin https://github.com/awsmsid/git_practice
+  392  cat ~/.ssh/id_rsa.pub
+  393  cd ~
+  394  mkdir test2
+  395  cd test2
+  396  git init
+  397  git clone https://github.com/awsmsid/git_practice.git
+  398  cd git_practice/
+  399  LS
+  400  ls
+  401  nano example1.sh 
+  402  git status
+  403  git commit -m "3rd"
+  404  git commit -m "3rd" example1.sh
+  405  git push -u origin master
+  406  cd ~
+  407  mkdir `date`
+  408  cd Desktop
+  409* 
+  410  cd ~
+  411  cd Desktop
+  412  history > ~/`date`.txt
+  413  mkdir history
+  414  cd history
+  415  history >  touch $(date +"%d-%m-%Y:%T").txt
+  416  cd ~
+  417  history
+  418  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  419  cd Desktop/
+  420  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  421  cd history
+  422  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  423  cd ~
+  424  mkdir todayhistory
+  425  cd todayhistory/
+  426  history > ~/file.txt
+  427  ls
+  428  cd ..
+  429  cd todayhistory/
+  430  vi file.txt
+  431  history > ~/file.txt
+  432  vi file
+  433  vi file.txt
+  434  history > ~/file.txt
+  435  ls
+  436  vi file1.txt
+  437  cd ~
+  438  vi file2.txt
+  439  vi file5.txt
+  440  history > ~/file5.txt
+  441  vi  touch $(date +"%d-%m-%Y:%T").txt
+  442  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  443  history > ~/ $(date +"%d-%m-%Y:%T").txt
+  444  cd ~
+  445  mv file.txt touch $(date +"%d-%m-%Y:%T").txt
+  446  mv file.txt `touch $(date +"%d-%m-%Y:%T")`.txt
+  447  cd test2
+  448  git init
+  449  git add .
+  450  git commit -m "priyanka commit"
+  451  git remote add origin https://github.com/awsmjai/priyanka.git
+  452  git push -u origin master
+  453  cd ~
+  454  mkdir  touch $(date +"%d-%m-%Y:%T")
+  455  ls
+  456  cd 08-01-2015:16:21:29
+  457  history > ~/(08-01-2015:16:21:29).txt
+  458  history > ~/08-01-2015:16:21:29.txt
+  459  vi 08-01-2015:16:21:29.txt
+  460  history > ~/08-01-2015:16:21:29.txt
+  461  history > 08-01-2015:16:21:29.txt
